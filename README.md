@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](https://best-human-developer.tistory.com/)  
+[![Notion Study Badge](https://img.shields.io/badge/Study-408fff?style=flat&logo=notion&logoColor=white)](https://knowing-lift-281.notion.site/Study-a46566bce7014a51843e87fa4b2999cf)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jslkap227)](https://solved.ac/jslkap227)  
 
